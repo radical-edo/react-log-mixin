@@ -1,0 +1,25 @@
+{
+  "name": "react-log-mixin",
+  "version": "0.0.0",
+  "description": "React mixin for development logs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/radical-edo/react-log-mixin.git"
+  },
+  "keywords": [
+    "react",
+    "log",
+    "development",
+    "render"
+  ],
+  "author": "radical-edo <radical.3do@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/radical-edo/react-log-mixin/issues"
+  },
+  "homepage": "https://github.com/radical-edo/react-log-mixin#readme"
+}
